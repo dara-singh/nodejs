@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "nodejs core concepts",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dara-singh/nodejs.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Dara Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dara-singh/nodejs/issues"
+  },
+  "homepage": "https://github.com/dara-singh/nodejs#readme"
+}
