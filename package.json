@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/dara-singh/nodejs/issues"
   },
-  "homepage": "https://github.com/dara-singh/nodejs#readme"
+  "homepage": "https://github.com/dara-singh/nodejs#readme",
+  "dependencies": {
+    "request": "^2.81.0",
+    "yargs": "^8.0.2"
+  }
 }
